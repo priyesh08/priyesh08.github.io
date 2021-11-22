@@ -1,0 +1,205 @@
+{
+  "awards": [],
+  "basics": {
+    "email": "priyeshbhishnurkar@gmail.com",
+    "label": "Angular - Lead Application Developer",
+    "location": {
+      "address": "",
+      "city": "Sparta",
+      "countryCode": "US",
+      "postalCode": "",
+      "region": "New Jersey"
+    },
+    "name": "Priyesh Bhishnurkar",
+    "phone": "(847) 414-5179",
+    "picture": "Profilepicture_1.png",
+    "profiles": [
+      {
+        "network": "Twitter",
+        "url": "https://twitter.com/PBhishnurkar",
+        "username": "@PBhishnurkar"
+      },
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/priyesh-bhishnurkar-81954421/",
+        "username": "Priyesh Bhishnurkar"
+      }
+    ],
+    "summary": "Passionate for quality, best practices, and effortless usability (for developers and end users), problem solving oriented engineer with experience in UI/UX, continuous delivery and integration, micro-frontend and microservices architecture, and containers. Quick to adapt to changes of dynamic environments and requirements to provide the optimal solution.",
+    "website": ""
+  },
+  "education": [
+    {
+      "area": "Information Technology Management",
+      "courses": [],
+      "endDate": "2016-07-14",
+      "gpa": "",
+      "institution": "Campbellsville University (KY)",
+      "startDate": "2015-01-26",
+      "studyType": "Masters"
+    },
+    {
+      "area": "Software Systems",
+      "courses": [],
+      "endDate": "2010",
+      "gpa": "",
+      "institution": "BITS Pilani",
+      "startDate": "2008",
+      "studyType": "Masters"
+    }
+  ],
+  "interests": [],
+  "languages": [
+    {
+      "fluency": "Fluent",
+      "language": "English"
+    }
+  ],
+  "publications": [
+    {
+      "name": "MongoDB Conference - NYC",
+      "publisher": "ADP Global Product & Development Connect",
+      "releaseDate": "2019-05-16",
+      "summary": "",
+      "website": ""
+    }
+  ],
+  "references": [],
+  "skills": [
+    {
+      "keywords": [
+        "UI/UX",
+        "Angular",
+        "TypeScript",
+        "Javascript",
+        "JSON",
+        "CSS",
+        "HTML",
+        "XML",
+        "Google Analytics",
+        "NestJS",
+        "SynerG",
+        "Invision for UX"
+      ],
+      "level": "Master",
+      "name": "Frontend/Backend"
+    },
+    {
+      "keywords": [
+        "Microservices",
+        "Micro-frontend"
+      ],
+      "level": "Master",
+      "name": "Architecture"
+    },
+    {
+      "keywords": [
+        "Jenkins",
+        "SonarQube",
+        "Karma",
+        "Jasmine"
+      ],
+      "level": "Knowledgable",
+      "name": "Applications"
+    }
+  ],
+  "volunteer": [],
+  "work": [
+    {
+      "company": "ADP",
+      "endDate": "Current",
+      "highlights": [
+        "Lead the UI/UX implementation for Multi-country payroll application integrated with code review, SonarQube, automated releases using containers and deployments. Work with backend API developers to design contracts and speed up integrations without adding delays to the handshake. Improve the code quality by using typescript and interfaces, plus adding 100% code coverage and covering edge cases in unit tests as well linting errors. Also worked on upgrade of Angular + SynerG framework. Worked on switching the database from Mongo to Oracle.",
+        "Architect, Design, Analyse and Develop components, pages using best practices and using data structures for boosting performance. Designed and Developed the UX mockups using 'Invision tool' to provide a working protoype for team members, Product owners and other stake-holders to have a working look and feel of the User interface being developed."
+      ],
+      "position": "Lead Software Engineer",
+      "startDate": "2020-09-21",
+      "summary": "Lead the UI/UX development and design including responsibility to deploy and co-ordinate deliverables with highest quality.",
+      "website": "https://www.adp.com"
+    },
+    {
+      "company": "ADP",
+      "endDate": "2020-09-21",
+      "highlights": [
+        "Worked with Product Owners, Project Managers, and multiple teams in different countries to delivery bi-weekly features, coordinating dependencies and requirements. Containerized micro-frontend and micro-services for faster release cycle. Lead the team as scrum master, handled cordination with multiple members across the globe. Also lead all the Agile ceremonies like grooming / retro / standups / sprint reviews and sprint planning. Followed up with Product owners / Business Analyst to not only work on the given functionality, but also to enhance the features being built to be more effective and  efficient for end-users consuming the product.",
+        "Advocate for meaninful code reviews, small pull requests, automated code quality with lint, SonarQube and unit-tests. Upgrade the application from AngularJS 1.4 to Angular 6 by running both at the same time."
+      ],
+      "position": "Senior Software Engineer",
+      "startDate": "2017-08-15",
+      "summary": "Design, analyse & build application to integrate multi-country payroll systems with human capital management.",
+      "website": "https://www.adp.com"
+    },
+    {
+      "company": "Tanisha Systems Inc.",
+      "endDate": "2017-08-15",
+      "highlights": [
+        "Design, develop and maintain user interfaces for mutli-country payroll using AngularJS 1.1 framework. Worked closely with backend developers for robust and smoother integration. Unit tests coverage and Sonarcube standards set and maintained to make the application more reliable.",
+        "Closely worked with Product owners on the requirements and managed/ owned the full agile software development life cycle. Also worked with external UX vendors to align the UI prototype to be complaint with ADP internal UX standards."
+      ],
+      "position": "Senior Software Engineer",
+      "startDate": "2015-08-01",
+      "summary": "Frontend development, API integration, release new features",
+      "website": "https://www.tanishasystems.com/"
+    },
+    {
+      "company": "Spruce Technology Inc.",
+      "endDate": "2015-08-01",
+      "highlights": [
+        "Create new features, improve system’s performance and develop new applications. Develop software prototypes to streamline data access.Review and influence ongoing UI wireframes, designs, standards and algorithms. Implemented complete payment system module for NYC department of buildings to enable them for online payments, with third party vendor system",
+        "Create front-end applications for user friendly interaction with REST services. Partner with multiple stakeholders to prioritize features and manage development cycles."
+      ],
+      "position": "Senior Software Engineer",
+      "startDate": "2015-01-25",
+      "summary": "Frontend development, API integration",
+      "website": "https://www.sprucetech.com/"
+    },
+    {
+      "company": "CDK Global - formerly ADP Dealer Services",
+      "endDate": "2014-09-04",
+      "highlights": [
+        "Built Inventory management system for Dealer services for vehicle management purpose. Worked as a front end developer using Angular version 1.0. Lead the CI/CD pipeline for team then using Nolio and Bamboo deployments. Practiced and encouaged Test driven development (TDD).",
+        "Considering the versatality and flexibility that I brought to the team, I was choosen for a product transition in Texas. Lead and planned the  whole transition with the Third-party company management. Transition the product and domain knowledge and then migrated the application from Microsoft.Net to AngularJS within 6 months span while maintaining the product running in production with affecting the user base."
+      ],
+      "position": "Software Engineer - II",
+      "startDate": "2013-05-25",
+      "summary": "DevOps, Production Support, frontend development, performance improvements",
+      "website": "https://www.cdkglobal.com"
+    },
+    {
+      "company": "ADP",
+      "endDate": "2013-05-25",
+      "highlights": [
+        "Architect and design reusable components using .Net Sharepoint and and Javascript. Develop UI web front ends, middle tier and databases to provide communication, security and performance to Web Services using SOAP. Generate code with cross browser compatibility for Firefox, Internet Explorer (7, 8 and 9) and Safari.",
+        "Developed and maintained ADP's internal sharepoint portal. Create new & reusable components using webparts and other javascript library. Innovative concepts developed and implemented on the portal to enable self serve functionality for end users thus reducing the tickets logged against the system."
+      ],
+      "position": "Associate Software Developer",
+      "startDate": "2010-10-08",
+      "summary": "Full stack development with Microsoft.Net, Sharepoint 2003/2007/2010 and Javascript",
+      "website": "https://www.adp.com"
+    },
+    {
+      "company": "InfoR - formerly Approva Systems Pvt Ltd.",
+      "endDate": "2010-10-08",
+      "highlights": [
+        "Design and implemented web user interface for financial audit control software. Also assisted with developing the microsoft installer package which would be useful in installing software on client machines.",
+        "Implemented role based security for front end web applications and built reports using LOGI framework. Wrote complicated algorithm in SQL using stored procedure, cursors and views."
+      ],
+      "position": "Senior programmer",
+      "startDate": "2008-07-01",
+      "summary": "Full stack developer with deployment package creation & production support",
+      "website": "https://www.infor.com/"
+    },
+    {
+      "company": "Advent Software Ltd.",
+      "endDate": "2008-07-01",
+      "highlights": [
+        "Involved in detailed and through analysis of needs for Health care system. Gathered requirements and analyzed them thoroughly and did transform them to very friendly User interface adhering to the user interface standards guide by Ben Snhiedermen. Extensive usage of Crystal reports 6.0 to developed details and as per needs reports to summarize the information within the system to the user",
+        "Followed the HIPAA standard for developing the health care software system. Created innovative and intuitive screens for users by performing ethnographic studies of user experience. Built integration with RFID and used Bluetooth to connect the RFID with computer software system"
+      ],
+      "position": "Programmer",
+      "startDate": "2006-06-06",
+      "summary": "Software Developer.",
+      "website": "NA"
+    }
+  ]
+}
