@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1637684323165,
+  "timestamp": 1638214199382,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/favicon.ico",
-        "/main.59ef1fe73670a61b7f69.js",
+        "/main.f7913a0c85d035aba4a5.js",
         "/manifest.webmanifest",
         "/polyfills.591c6c39c9ca5ec8bb4b.js",
         "/runtime.11e0d78c1a0b680fae5c.js",
@@ -59,7 +59,7 @@
   "hashTable": {
     "/assets/Profilepicture_1.png": "daff9b1a434dba031090f5277fb3130b14c279b0",
     "/assets/card.jpeg": "d563e798bf97ac7be7b94beecc95ec71fe8ec454",
-    "/assets/changelog.json": "8560b9be73df0444cece456ac51ba42d550cf9c3",
+    "/assets/changelog.json": "747b47747592adfa0014f9c8df54687e767e4421",
     "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -75,12 +75,12 @@
     "/assets/logo-adp.jpeg": "dcc27b0ed8da232161cefbcdafabe9df7e45c17c",
     "/assets/logo-spruce.png": "a275bd8fd466fabd6f5049c80c4338c1b9c89455",
     "/assets/logo-tanisha.jpeg": "2194f934715e9b0867d14ab6ff47b20bfb0a596a",
-    "/assets/release.json": "9f3274018edafea68cba3e7438b212ec92012c80",
+    "/assets/release.json": "e05989d046118599e5aca929bf26a201c9664c57",
     "/assets/resume.json": "321601e8e7b7f445b6e5ae2e50866375ba07aecb",
     "/assets/schema.json": "ff09d289b6fc314c29ba5c78c980a87941f39e33",
     "/assets/spruce-logo.png": "ff3d481221f2d7ac0c1a57157bcd824cec4c7a62",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/main.59ef1fe73670a61b7f69.js": "a10e6c2acc6c39d411b52b4de048d6a8072620f8",
+    "/main.f7913a0c85d035aba4a5.js": "75d4060d00b4da399454d3bbb2090ee80d756601",
     "/manifest.webmanifest": "2b6a4eb815edbde632a2ba4ea016a3f1f60b8215",
     "/polyfills.591c6c39c9ca5ec8bb4b.js": "b1fff2736c0db7da1c07a2c19a0f13309a12b0d6",
     "/runtime.11e0d78c1a0b680fae5c.js": "17a6b5b7395bc2773cb34d9d3a29d16817b3c033",
