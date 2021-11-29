@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1638214199382,
+  "timestamp": 1638216959340,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -59,7 +59,7 @@
   "hashTable": {
     "/assets/Profilepicture_1.png": "daff9b1a434dba031090f5277fb3130b14c279b0",
     "/assets/card.jpeg": "d563e798bf97ac7be7b94beecc95ec71fe8ec454",
-    "/assets/changelog.json": "747b47747592adfa0014f9c8df54687e767e4421",
+    "/assets/changelog.json": "672da1e2dee0308718b752d86be63acbf82323de",
     "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -75,8 +75,8 @@
     "/assets/logo-adp.jpeg": "dcc27b0ed8da232161cefbcdafabe9df7e45c17c",
     "/assets/logo-spruce.png": "a275bd8fd466fabd6f5049c80c4338c1b9c89455",
     "/assets/logo-tanisha.jpeg": "2194f934715e9b0867d14ab6ff47b20bfb0a596a",
-    "/assets/release.json": "e05989d046118599e5aca929bf26a201c9664c57",
-    "/assets/resume.json": "321601e8e7b7f445b6e5ae2e50866375ba07aecb",
+    "/assets/release.json": "7cb03a4bfd91fc26e3556f3fb0bab00754c0ad60",
+    "/assets/resume.json": "14340062fe403fb63ac38914af9d0f15c6a2567b",
     "/assets/schema.json": "ff09d289b6fc314c29ba5c78c980a87941f39e33",
     "/assets/spruce-logo.png": "ff3d481221f2d7ac0c1a57157bcd824cec4c7a62",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
